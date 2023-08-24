@@ -8,7 +8,7 @@
 <h4 align="center"> - 📫 How to reach me https://www.linkedin.com/in/abdhesh-kumar-330250204/</h4>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/abdhesh-kumar-330250204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdhesh-kumar-330250204" height="30" width="40" /></a>
 <a href="https://instagram.com/rajput_abd22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajput_abd22" height="30" width="40" /></a>
