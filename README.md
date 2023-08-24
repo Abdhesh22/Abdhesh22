@@ -1,26 +1,10 @@
-# Agami Technologies Software Developer Portfolio
+# Software Developer
 
-Welcome to my software development portfolio! This repository showcases some of the projects I've worked on during my time as a software developer at Agami Technologies.
+Welcome to my software development portfolio! This repository showcases some of the projects.
 
 ## About Me
 
-I am a passionate software developer with a strong interest in creating efficient and innovative solutions. I specialize in [mention your programming languages, technologies, or domains you work in], and I enjoy tackling complex challenges to deliver high-quality software products.
-
-## Projects
-
-### Project 1: [Project Name]
-
-- **Description:** Brief description of the project, its purpose, and its features.
-- **Technologies Used:** List of technologies, frameworks, and tools used in the project.
-- **My Role:** Explain your role in the project, your contributions, and responsibilities.
-- **GitHub Repository:** [Link to GitHub Repository](https://github.com/yourusername/project-repo)
-
-### Project 2: [Project Name]
-
-- **Description:** Brief description of the project, its purpose, and its features.
-- **Technologies Used:** List of technologies, frameworks, and tools used in the project.
-- **My Role:** Explain your role in the project, your contributions, and responsibilities.
-- **GitHub Repository:** [Link to GitHub Repository](https://github.com/yourusername/project-repo)
+I am a passionate software developer with a strong interest in creating efficient and innovative solutions. I specialize in javascript and c++, and I enjoy tackling complex challenges to deliver high-quality software products.
 
 <!-- Add more projects as needed -->
 
