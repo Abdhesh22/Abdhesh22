@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdhesh22&label=Profile%20views&color=0e75b6&style=flat" alt="abdhesh22" /> </p>
 
-- 🔭 I’m currently working on **Agami Technologies**
+<h4 align="center"> - 🔭 I’m currently working on **Agami Technologies**</h4>
+<h4 align="center"> - 💬 Ask me about **javascript, Dsa, Vue, React</h4>
+<h4 align="center"> - 📫 How to reach me https://www.linkedin.com/in/abdhesh-kumar-330250204/</h4>
 
-- 💬 Ask me about **javascript, Dsa, Vue, React**
-
-- 📫 How to reach me **https://www.linkedin.com/in/abdhesh-kumar-330250204/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
