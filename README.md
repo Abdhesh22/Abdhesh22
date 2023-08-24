@@ -23,5 +23,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdhesh22&show_icons=true&locale=en&layout=donut" alt="abdhesh22" /></p>
 
-<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/rajput_abdhesh_22?ext=activity&theme=dark" alt="abdhesh22" /></p>
-<p align="center">![Leetcode Stats](https://leetcard.jacoblin.cool/rajput_abdhesh_22?ext=activity&theme=dark)</p>
+<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/rajput_abdhesh_22?ext=activity&theme=unicorn" alt="abdhesh22" /></p>
