@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdhesh22&show_icons=true&locale=en&layout=compact" alt="abdhesh22" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/rajput_abdhesh_22?ext=activity&theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/rajput_abdhesh_22?ext=activity&theme=heatmap)
