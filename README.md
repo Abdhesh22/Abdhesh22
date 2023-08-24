@@ -1,37 +1,11 @@
-# Software Developer
+<h1 align="center">Hi 👋, I'm Abdhesh Kumar</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-Welcome to my software development portfolio! This repository showcases some of the projects.
+- 🔭 I’m currently working on **Agami Technologies**
 
-## About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-I am a passionate software developer with a strong interest in creating efficient and innovative solutions. I specialize in javascript and c++, and I enjoy tackling complex challenges to deliver high-quality software products.
-
-<!-- Add more projects as needed -->
-
-## Coding Profiles
-
-Connect with me on different coding platforms:
-
-[![GitHub](icons/github-icon.png)](https://github.com/yourusername)
-[![GitLab](icons/gitlab-icon.png)](https://gitlab.com/yourusername)
-[![Bitbucket](icons/bitbucket-icon.png)](https://bitbucket.org/yourusername)
-
-## Skills
-
-- List some of your key skills related to software development.
-- Mention any certifications or special achievements if relevant.
-
-## Contact
-
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yourusername/) or [email](mailto:youremail@example.com) if you're interested in connecting, collaborating, or discussing potential opportunities.
-
-## Resume
-
-You can find more details about my work experience and education in my [resume](link-to-your-resume.pdf).
-
-## License
-
-This repository and its content are licensed under the [appropriate license you prefer].
-
----
-Thank you for visiting my portfolio! I'm excited to share my journey as a software developer and the projects I've had the privilege to work on. Your feedback and inquiries are always welcome.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
